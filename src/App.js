@@ -138,7 +138,8 @@ function App() {
         </h2>
         <p>
           Párate frente a tu cámara web para obtener detección en tiempo real de
-          puntos de referencia de postura. <br />
+          puntos de referencia de postura. <br /> Si es la primera vez que
+          entras a esta web se te solicitará que permites el acceso a tu webcam
         </p>
 
         <div>
